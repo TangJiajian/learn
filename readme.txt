@@ -1,4 +1,1 @@
-The very new line.
-This is another new line.
-
-
+Creating a new branch is quick.
